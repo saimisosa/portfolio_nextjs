@@ -31,7 +31,7 @@ export default function Home() {
                       </li>
                       <li>
                           <a className ="bg-cyan-500 text-white px-4 py-2 rounded-md ml-8"
-                             href="./sjuluru_resume.pdf" download="SJ_Resume.pdf">Resume
+                             href="../public/sjuluru_resume.pdf" download="SJ_Resume.pdf">Resume
                           </a>
                       </li>
                   </ul>
