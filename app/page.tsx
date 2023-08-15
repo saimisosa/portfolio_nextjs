@@ -52,7 +52,7 @@ export default function Home() {
               </div>
               <div className="relative mx-auto content-center p-20">
                   <center>
-                  <Image src={img} alt={"Cartoon profile picture"} width={250} height={250}/>
+                  <Image src={img} alt={"Cartoon version of a profile picture, made in Picrew"} width={250} height={250}/>
                   </center>
               </div>
           </section>
@@ -62,7 +62,7 @@ export default function Home() {
               <div className="lg:flex gap-10">
                   <div className="text-center shadow-lg p-10 rounded-xl my-10  dark:bg-gray-100 flex-1">
                       <center>
-                          <Image src={code} alt={"A code example"} width={100} height={100} />
+                          <Image src={code} alt={"A 3D code snippet"} width={100} height={100} />
                       </center>
                       <h3 className="text-lg font-medium pt-8 pb-2">
                           Programming & Frameworks
@@ -77,7 +77,7 @@ export default function Home() {
                   </div>
                   <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-gray-100 flex-1">
                       <center>
-                          <Image src={design} alt={"A design"} width={100} height={100}/>
+                          <Image src={design} alt={"A 3D design snippet"} width={100} height={100}/>
                       </center>
                       <h3 className="text-lg font-medium pt-8 pb-2 ">
                           Design & Modeling
@@ -91,7 +91,7 @@ export default function Home() {
                   </div>
                   <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-gray-100 flex-1">
                       <center>
-                          <Image src={consulting} alt={"Consulting example"} width={100} height={100} />
+                          <Image src={consulting} alt={"A 3D thumbs-up emoji"} width={100} height={100} />
                       </center>
                       <h3 className="text-lg font-medium pt-8 pb-2 ">Databases & Assembly</h3>
                       <h4 className="py-4 text-teal-600">Languages Used:</h4>
