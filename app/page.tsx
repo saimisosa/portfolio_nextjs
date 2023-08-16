@@ -41,9 +41,9 @@ export default function Home() {
                   <h3 className = "text-xl py-2 dark:text-white md:text-xl">Aspiring Developer & Designer</h3>
                   <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-md">
                       B.S in Computer Science recipient from the NYU Tandon School of Engineering.
-                      I'm currently working towards developing my skills in UI/UX design and development, as we as full-stack development.
+                      I'm currently working towards developing my skills in UI/UX design and development, as well as full-stack development.
                       I've spent my undergraduate career diving into a multitude of projects ranging from map-coloring algorithms to coding musical compositions in TidalCycles and Ruby.
-                      With a solid background the fundamentals in programming, I aim to explore the overlaps in design and software development.
+                      With a solid background of the fundamentals in programming, I aim to explore the overlaps in design and software development.
                   </p>
               </div>
               <div className="text-3xl flex justify-center gap-8 text-gray-600 dark:text-gray-400">
